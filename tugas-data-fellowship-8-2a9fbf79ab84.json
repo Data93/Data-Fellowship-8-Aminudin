@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tugas-data-fellowship-8",
+  "private_key_id": "2a9fbf79ab84e0ff69dd46402b32049199187a23",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDjxzu9wl+itE38\nJy0uaJiMJ2ELc4SjGix5YeLSfgnX1gi0HwhlLCDiBjn4wUfUJmoJSpgWHKCoRtqz\nf4ZpHgPyQwfTANLAoe/DCLpaF7f23C4jy8V/1IXMmRClED/Q/GcmtJlUJ1+PPLts\nwdgOQZAnHCCsH6qgyQqVSs0lpohn2TKZKv2JYYouICNYDGybGWrb5p2rgBntfcp3\nfbIF0L7sW6+eDI0hgRBEwcxF2q1yEM/2CJe99eJBZEH8sRzVkRwtcaTlsZ2yGSds\n/V6UaJ/marnxa+yIYJ0hGjGX7YkKe8WC0VruryIFHkmiLnyb4Ganar8OUUSxfDJA\nbxnnfeRBAgMBAAECggEAVt3Y9T3nHhRYN2UzcGL4Zl7wPh9AgrlNI7+GctMZauRX\n7mV1XKwvIDPSsQD5JTm/L6rwhGJHjNV0u4bTWkxVofMZTUmfllJLr1wpQYmRIYaH\n3CPuvpjsrAHl3KVtSQSxTAwM+5CGe4hkTA5DGPC9CoVKGop7FpWFQTlFMmon1D5C\n9ddG6QCPceBlOet3ZWKdBpV+HKtEqxX4vBEzzBQEACmtL7rcnLBVzR/bKgWh29E3\nJNByokME93m3wn4POEq/suD631ZBt1Q20yzbZg82jLp147hHw3ZFILOt9mmLLbhT\npTXmpBQorQPLKo0BVnWVn/iSxbiEUi/Sdhuo0ygqPwKBgQD/yCI7Hw89f8W6J8JB\n5ZQTOqneBnK3K+82C0TK+SPLzNQtu64kBTa3UPEOv4neYl0Jkiq9BgxyoBYpDtQv\nN1hKzdh3IxBZKjuJBs8H5pr9AK9039e8ECzseNiTBBRTjt3LXJ2v1wreYYCtZMcF\n267HZRsRjoRvax9QKLa+zmFhCwKBgQDj+Pu5G2ROgpFCYY4RPLF1V368JnwkL2XY\ntx4FpYddCmwpNuf3TxL3KoZkGOPnqivMg9FSsEY+E35WgYH57mbedQYwV+J8wHel\ndmyL8Q4x2DdadBifPICQwbtXcPjeORIJw4dWSIbde23Ls2nKQ8GrP1v8pskuYPoX\nVwDReXQ3YwKBgGGAUrwirNaOnDrH6R7her6RwCroXlZAoyEAzqpoqiKH4+HDBzCn\n5CGg8yLiFJX2/OwnEa+YXKpdJ9Vi17Nf74IkUX2omhTDKoqjU8v5Nd93oWp14XDI\n4bcKodP43B61+QoKNfnPiU8X78so/UzYXxmXCuh4YTdvqDIQMwks9qXdAoGBANQ7\nc308twEwJLM7xtrdOggX0HCxE1lMlvBOabCwDXjcvx0PdJyUDP/1ou+FDIcbsXLQ\nNQtZ98rKsw8tuidHfpUTNRPEfaHOPJTZzuvpGmHk/INFGbcEyFv7P8GD9uxLDTPx\nyAjXtFZ1Fh5RhOc8dQxMDAMF8r0uoyUfZi+ddkgpAoGBALRvE3jmIMoWanmJ1qbf\nXgV+NtKUXOaynXUxyd7UIRe79RF/Y6JUexSp7TY19e1mlxmymxSlFXswLVKsBeIn\n6VDuGxR+3X6kAAOKU0ZFw/xTvd0j1iUwD94jWi9fbrJ++wY+GGkwPxr8+2Yy0b+X\nxRX0fLcHAsTF6evfAz9uXHHz\n-----END PRIVATE KEY-----\n",
+  "client_email": "project-df-8@tugas-data-fellowship-8.iam.gserviceaccount.com",
+  "client_id": "110039651972802917889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/project-df-8%40tugas-data-fellowship-8.iam.gserviceaccount.com"
+}
